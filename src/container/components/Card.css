@@ -1,0 +1,36 @@
+@media (max-width:1200px) {
+
+    .media-card {
+
+        display: flex;
+        justify-content: center !important;
+        align-items: center !important;
+
+
+
+    }
+
+    .custom-rectangle-projects{
+        width: 340px !important ; 
+        height: 230px !important;
+    }
+
+
+
+
+}
+
+@media (min-width:1200px) {
+
+    .media-font{
+        margin-left: -100px !important;
+    }
+}
+
+.custom-rectangle-projects{
+    width: 250px; 
+    height: 180px;
+    border-radius: 6px;
+    margin-top: 10px;
+    background-color: grey;
+}

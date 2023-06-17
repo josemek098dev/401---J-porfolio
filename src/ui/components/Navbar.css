@@ -1,0 +1,23 @@
+@media (max-width: 1000px) {
+
+  /* Agrega la siguiente regla para posicionar el navbar encima del contenido */
+  .navbar {
+    background-color: white;
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+  }
+
+  .media-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+}
+

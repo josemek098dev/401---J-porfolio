@@ -1,0 +1,86 @@
+body {
+
+    font-family: Heebo, sans-serif;
+    color: #21243D !important;
+
+
+}
+
+
+
+.weigth-500 {
+
+    font-weight: 500;
+}
+
+.weigth-700 {
+
+    font-weight: 700;
+}
+
+.fs-22 {
+    font-size: 22px !important;
+}
+
+.fs-30 {
+    font-size: 30px ;
+}
+
+
+.NavLink {
+   
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.active{
+    color: #FF6464 !important;
+}
+
+
+.container-custom-app {
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-background {
+    background-color: #EDF7FA;
+    padding-top:10px;
+
+   
+}
+
+@media (min-width:1200px) {
+
+    .custom-background {
+    margin: 0 -100px;
+    padding: 10px 100px;
+    }
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 ; 
+    
+}
+
+.navbar-toggler{
+    border: none;
+    
+}
+
+
+
+.xboot{
+    font-size: 25px;
+    color:#21243D;
+}
+
+.lboot{
+    font-size: 30px;
+    color:#21243D;
+}
