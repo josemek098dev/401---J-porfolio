@@ -1,11 +1,10 @@
-@media (max-width:1200px) {
+@media (max-width:1000px) {
 
     .media-card {
 
         display: flex;
         justify-content: center !important;
         align-items: center !important;
-
 
 
     }
@@ -15,16 +14,31 @@
         height: 230px !important;
     }
 
+    .media-font-title{
+
+        font-size: 22px !important;
+    }
+
+    .media-font-desc{
+
+        font-size: 14px;
+    }
+
+    .media-font-title-2{
+
+        font-size: 16px !important;
+    }
 
 
 
 }
 
 @media (min-width:1200px) {
-
     .media-font{
-        margin-left: -100px !important;
+        margin-left: -120px !important;
     }
+
+
 }
 
 .custom-rectangle-projects{
@@ -33,4 +47,15 @@
     border-radius: 6px;
     margin-top: 10px;
     background-color: grey;
+}
+
+.media-font-title-1{
+    margin-top: 30px;
+    font-size: 20px ;
+}
+
+.media-font-title-2{
+
+    font-size: 16px ;
+    padding-bottom: 30px;
 }
