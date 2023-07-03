@@ -14,8 +14,9 @@ export const Footer = () => {
                 <li><a className="twitter" href="#"><Twitter /></a></li>
                 <li><a className="dribbble" href="#"><Instagram /></a></li>
                 <li><a className="linkedin" href="#"><LinkedIn /></a></li>
+                <p className="mt-1 fs-12" >Copyright ©2023 All rights reserved </p>
             </ul>
-
+            
         </div>
 
     );

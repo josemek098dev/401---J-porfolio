@@ -12,6 +12,7 @@
     .custom-rectangle-projects{
         width: 340px !important ; 
         height: 230px !important;
+        background-size: cover;
     }
 
     .media-font-title{
@@ -47,6 +48,8 @@
     border-radius: 6px;
     margin-top: 10px;
     background-color: grey;
+    background-size: cover;
+    background-position: center;
 }
 
 .media-font-title-1{

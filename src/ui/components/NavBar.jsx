@@ -41,7 +41,7 @@ export const NavBar = () => {
               onClick={() => setExpanded(false)}
               to="/"
             >
-              Sobre mi
+              About me
             </NavLink>
 
             <NavLink
@@ -53,7 +53,7 @@ export const NavBar = () => {
               }}
               to="/"
             >
-              Proyectos
+              Projects
             </NavLink>
 
             <NavLink
@@ -65,7 +65,7 @@ export const NavBar = () => {
               }}
               to="/"
             >
-              Contacto
+              Contact
             </NavLink>
           </Nav>
         </Navbar.Collapse>
